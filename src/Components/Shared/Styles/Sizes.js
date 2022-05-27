@@ -1,6 +1,6 @@
 const sizes = {
   mobileL: "465px",
-  tablet: "768px",// this is for small laptop but i save it as tablet
+  tablet: "810px",// this is for small laptop but i save it as tablet
   laptopL: "1440px",
 //   desktop: "2560px",
 };
