@@ -1,8 +1,12 @@
 import { SubContainer } from "../Liststyle";
+import { Items } from "./Items";
 
 export const ListContainer = () => {
-    return <SubContainer>
-      
+  return (
+    <SubContainer>
+      <Items />
+      <Items />
+      <Items />
     </SubContainer>
-
+  );
 };
