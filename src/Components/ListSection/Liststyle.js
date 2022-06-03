@@ -7,7 +7,7 @@ export const MainContainer = styled.div`
   width: 100%;
   display: flex;
   justify-content: center;
-  margin-bottom: 200px;
+  margin-bottom: 100px;
 `;
 export const SubContainer = styled.div`
   width: 80%;
