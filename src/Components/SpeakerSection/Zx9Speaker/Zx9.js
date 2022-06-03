@@ -5,14 +5,14 @@ import {
   ImgZx9,
   P1,
   P2,
-  SubContainer,
+  SubContainer1,
   TextContainer,
 } from "../SpeakerSectionstyle";
 
 export const Zx9 = () => {
   return (
     <Container1>
-      <SubContainer>
+      <SubContainer1>
         <ImageContainer>
           <ImgZx9 src={require(`../../Shared/Img/Shared/image-speakers.png`)}/>
         </ImageContainer>
@@ -24,7 +24,7 @@ export const Zx9 = () => {
           </P2>
           <BlackButton>See Product</BlackButton>
         </TextContainer>
-      </SubContainer>
+      </SubContainer1>
     </Container1>
   );
 };
